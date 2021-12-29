@@ -14,13 +14,7 @@
 		"liquiddesign/web": "@dev",
 		"liquiddesign/forms": "@dev",
 		"liquiddesign/base": "@dev",
-		"liquiddesign/translator": "@dev",
-		"wikimedia/composer-merge-plugin": "^2.0"
+		"liquiddesign/translator": "@dev"
 	},
-	"minimum-stability": "dev",
-	"config": {
-		"allow-plugins": {
-			"wikimedia/composer-merge-plugin": true
-		}
-	}
+	"minimum-stability": "dev"
 }
