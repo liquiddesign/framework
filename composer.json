@@ -1,7 +1,6 @@
 {
-	"name": "liquiddesing/framework",
+	"name": "liquiddesign/framework",
 	"description": "Meta package liquiddesign knihoven",
-	"type": "metapackage",
 	"require": {
 		"nette/nette": "^3.0",
 		"liquiddesign/storm": "~1.0",
