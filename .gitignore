@@ -1,0 +1,4 @@
+# exclude everything
+vendor/*
+.idea/*
+composer.lock

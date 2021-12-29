@@ -1,0 +1,27 @@
+{
+	"name": "liquiddesing/framework",
+	"description": "Meta package liquiddesign knihoven",
+	"type": "metapackage",
+	"require": {
+		"nette/nette": "^3.0",
+		"liquiddesign/storm": "~1.0",
+		"liquiddesign/security": "~1.0",
+		"liquiddesign/sendgrid-mailer": "@dev",
+		"liquiddesign/email-templates": "@dev",
+		"liquiddesign/datalist": "~1.0",
+		"liquiddesign/pages": "@dev",
+		"liquiddesign/migrator": "@dev",
+		"liquiddesign/admin": "@dev",
+		"liquiddesign/web": "@dev",
+		"liquiddesign/forms": "@dev",
+		"liquiddesign/base": "@dev",
+		"liquiddesign/translator": "@dev",
+		"wikimedia/composer-merge-plugin": "^2.0"
+	},
+	"minimum-stability": "dev",
+	"config": {
+		"allow-plugins": {
+			"wikimedia/composer-merge-plugin": true
+		}
+	}
+}
