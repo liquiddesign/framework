@@ -5,15 +5,15 @@
 		"nette/nette": "^3.0",
 		"liquiddesign/storm": "~1.0",
 		"liquiddesign/security": "~1.0",
-		"liquiddesign/sendgrid-mailer": "@dev",
+		"liquiddesign/sendgrid-mailer": "~1.0",
 		"liquiddesign/email-templates": "@dev",
 		"liquiddesign/datalist": "~1.0",
 		"liquiddesign/pages": "@dev",
-		"liquiddesign/migrator": "@dev",
+		"liquiddesign/migrator": "~1.0",
 		"liquiddesign/admin": "@dev",
 		"liquiddesign/web": "@dev",
 		"liquiddesign/forms": "@dev",
-		"liquiddesign/base": "@dev",
+		"liquiddesign/base": "~1.0",
 		"liquiddesign/translator": "@dev"
 	},
 	"minimum-stability": "dev"
